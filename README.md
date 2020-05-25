@@ -1,5 +1,5 @@
 # GoBarber Mobile
 
-![](/src/assets/logo.svg)
+![](/src/assets/logo.png)
 
 Made by [Julio Azevedo](https://github.com/julioaze) :rocket:
